@@ -1,0 +1,6 @@
+C:\Users\mirela.paucescu\Desktop\gggg\TestProject NUnit\MonitorProcess\MonitorProcess\obj\Debug\net6.0\MonitorProcess.csproj.AssemblyReference.cache
+C:\Users\mirela.paucescu\Desktop\gggg\TestProject NUnit\MonitorProcess\MonitorProcess\obj\Debug\net6.0\MonitorProcess.csproj.ResolveComReference.cache
+C:\Users\mirela.paucescu\Desktop\gggg\TestProject NUnit\MonitorProcess\MonitorProcess\obj\Debug\net6.0\MonitorProcess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirela.paucescu\Desktop\gggg\TestProject NUnit\MonitorProcess\MonitorProcess\obj\Debug\net6.0\MonitorProcess.AssemblyInfoInputs.cache
+C:\Users\mirela.paucescu\Desktop\gggg\TestProject NUnit\MonitorProcess\MonitorProcess\obj\Debug\net6.0\MonitorProcess.AssemblyInfo.cs
+C:\Users\mirela.paucescu\Desktop\gggg\TestProject NUnit\MonitorProcess\MonitorProcess\obj\Debug\net6.0\MonitorProcess.csproj.CoreCompileInputs.cache

@@ -1,0 +1,16 @@
+C:\Users\mirela.paucescu\Desktop\gggg\TestProject NUnit\MonitorProcess\MonitorProcess\obj\Debug\net6.0-windows\MonitorProcess.csproj.AssemblyReference.cache
+C:\Users\mirela.paucescu\Desktop\gggg\TestProject NUnit\MonitorProcess\MonitorProcess\obj\Debug\net6.0-windows\MonitorProcess.csproj.ResolveComReference.cache
+C:\Users\mirela.paucescu\Desktop\gggg\TestProject NUnit\MonitorProcess\MonitorProcess\obj\Debug\net6.0-windows\MonitorProcess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirela.paucescu\Desktop\gggg\TestProject NUnit\MonitorProcess\MonitorProcess\obj\Debug\net6.0-windows\MonitorProcess.AssemblyInfoInputs.cache
+C:\Users\mirela.paucescu\Desktop\gggg\TestProject NUnit\MonitorProcess\MonitorProcess\obj\Debug\net6.0-windows\MonitorProcess.AssemblyInfo.cs
+C:\Users\mirela.paucescu\Desktop\gggg\TestProject NUnit\MonitorProcess\MonitorProcess\obj\Debug\net6.0-windows\MonitorProcess.csproj.CoreCompileInputs.cache
+C:\Users\mirela.paucescu\Desktop\gggg\TestProject NUnit\MonitorProcess\MonitorProcess\bin\Debug\net6.0-windows\MonitorProcess.exe
+C:\Users\mirela.paucescu\Desktop\gggg\TestProject NUnit\MonitorProcess\MonitorProcess\bin\Debug\net6.0-windows\MonitorProcess.deps.json
+C:\Users\mirela.paucescu\Desktop\gggg\TestProject NUnit\MonitorProcess\MonitorProcess\bin\Debug\net6.0-windows\MonitorProcess.runtimeconfig.json
+C:\Users\mirela.paucescu\Desktop\gggg\TestProject NUnit\MonitorProcess\MonitorProcess\bin\Debug\net6.0-windows\MonitorProcess.dll
+C:\Users\mirela.paucescu\Desktop\gggg\TestProject NUnit\MonitorProcess\MonitorProcess\bin\Debug\net6.0-windows\MonitorProcess.pdb
+C:\Users\mirela.paucescu\Desktop\gggg\TestProject NUnit\MonitorProcess\MonitorProcess\obj\Debug\net6.0-windows\MonitorProcess.dll
+C:\Users\mirela.paucescu\Desktop\gggg\TestProject NUnit\MonitorProcess\MonitorProcess\obj\Debug\net6.0-windows\refint\MonitorProcess.dll
+C:\Users\mirela.paucescu\Desktop\gggg\TestProject NUnit\MonitorProcess\MonitorProcess\obj\Debug\net6.0-windows\MonitorProcess.pdb
+C:\Users\mirela.paucescu\Desktop\gggg\TestProject NUnit\MonitorProcess\MonitorProcess\obj\Debug\net6.0-windows\MonitorProcess.genruntimeconfig.cache
+C:\Users\mirela.paucescu\Desktop\gggg\TestProject NUnit\MonitorProcess\MonitorProcess\obj\Debug\net6.0-windows\ref\MonitorProcess.dll
